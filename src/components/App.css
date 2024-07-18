@@ -1,0 +1,54 @@
+/* src/components/Navbar.css */
+.navbar {
+    background-color: #333;
+    padding: 1rem;
+  }
+  
+  .navbar-list {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+  }
+  
+  .navbar-list li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* src/components/AboutMe.css */
+  .about-section {
+    padding: 2rem;
+    background-color: #f4f4f4;
+  }
+  
+  /* src/components/Projects.css */
+  .projects-section {
+    padding: 2rem;
+  }
+  
+  .projects-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .project-item {
+    flex: 1;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #e0e0e0;
+  }
+  
+  /* src/components/Skills.css */
+  .skills-section {
+    padding: 2rem;
+    background-color: #f4f4f4;
+  }
+  
+  .skills-list {
+    list-style: none;
+  }
+  
+  .skills-list li {
+    padding: 0.5rem;
+  }
+  

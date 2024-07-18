@@ -1,6 +1,6 @@
 // src/components/AboutMe.js
 import React from 'react';
-
+import './App.css';
 const AboutMe = () => {
   return (
     <section id="about" className="about-section">
