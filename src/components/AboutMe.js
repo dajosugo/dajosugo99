@@ -5,7 +5,7 @@ const AboutMe = () => {
   return (
     <section id="about" className="about-section">
       <h2>Sobre Mí</h2>
-      <p>Hola, soy [Tu Nombre], un desarrollador web con experiencia en [tu experiencia y habilidades].</p>
+      <p>Hola, soy Daniel Suarez, un desarrollador web con experiencia en React.</p>
     </section>
   );
 };
