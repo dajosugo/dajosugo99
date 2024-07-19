@@ -8,15 +8,15 @@ const Contact = () => {
       <form className="contact-form">
         <div className="form-group">
           <label htmlFor="name">Nombre</label>
-          <input type="text" id="name" name="name" required />
+          <label htmlFor="name">Daniel Jose Suarez Gonzalez</label>
         </div>
         <div className="form-group">
           <label htmlFor="email">Correo Electrónico</label>
-          <input type="email" id="email" name="email" required />
+          <label htmlFor="email">dajosugo99@gmail.com</label>
         </div>
         <div className="form-group">
-          <label htmlFor="message">Mensaje</label>
-          <textarea id="message" name="message" rows="5" required></textarea>
+          <label htmlFor="Numero">Numero</label>
+          <label htmlFor="Numero">3153480342</label>
         </div>
         <button type="submit">Enviar</button>
       </form>
