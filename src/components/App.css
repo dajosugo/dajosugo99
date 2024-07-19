@@ -51,4 +51,29 @@
   .skills-list li {
     padding: 0.5rem;
   }
+
+  /* src/components/Contact.css */
+.contact-section {
+  padding: 2rem;
+  background-color: #e0e0e0;
+}
+
+.contact-info {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+}
+
+.contact-info p {
+  margin: 0.5rem 0;
+}
+
+.contact-info a {
+  color: #333;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
   
